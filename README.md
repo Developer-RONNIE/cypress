@@ -1,6 +1,6 @@
 # CYPRESS - Saas with Nested documents, Realtime database, Publishing documents to public
 
-![Banner](public\banner.png)
+![Banner](https://github.com/Developer-RONNIE/cypress/blob/main/public/banner.png)
 
 ## Tech Stack Built with: 
 - next.js 14 
